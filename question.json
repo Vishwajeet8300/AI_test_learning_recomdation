@@ -1,0 +1,248 @@
+[
+    {
+      "question": "Which device operates at the Data Link layer of the OSI model?",
+      "options": ["Switch", "Router", "Hub", "Modem"],
+      "answer": "Switch",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "What protocol is used to assign IP addresses dynamically?",
+      "options": ["DNS", "FTP", "DHCP", "HTTP"],
+      "answer": "DHCP",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which of the following uses a connection-oriented protocol?",
+      "options": ["UDP", "ICMP", "TCP", "HTTP"],
+      "answer": "TCP",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "What is the default port for HTTPS?",
+      "options": ["80", "20", "443", "21"],
+      "answer": "443",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which layer handles routing of packets?",
+      "options": ["Transport Layer", "Network Layer", "Session Layer", "Application Layer"],
+      "answer": "Network Layer",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "In IPv4, how many bits are used for addressing?",
+      "options": ["16", "32", "64", "128"],
+      "answer": "32",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "What is the main function of ARP?",
+      "options": ["Resolve domain names", "Find MAC address from IP", "Find IP address from MAC", "Control congestion"],
+      "answer": "Find MAC address from IP",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which access method is used by Ethernet?",
+      "options": ["CSMA/CD", "Token Ring", "ALOHA", "Polling"],
+      "answer": "CSMA/CD",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "What does TTL in an IP packet stand for?",
+      "options": ["Total Time Lag", "Time To Live", "Transfer Type Level", "Temporary Transport Layer"],
+      "answer": "Time To Live",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which of these protocols is not secure?",
+      "options": ["HTTPS", "SSH", "FTP", "SFTP"],
+      "answer": "FTP",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which OSI layer is responsible for encryption?",
+      "options": ["Presentation Layer", "Network Layer", "Transport Layer", "Session Layer"],
+      "answer": "Presentation Layer",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which topology requires a central hub?",
+      "options": ["Ring", "Bus", "Star", "Mesh"],
+      "answer": "Star",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "What is the use of DNS?",
+      "options": ["Resolve IP to MAC", "Resolve IP to Hostname", "Resolve Hostname to IP", "Transfer data"],
+      "answer": "Resolve Hostname to IP",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which protocol is used for remote login?",
+      "options": ["SMTP", "FTP", "Telnet", "SNMP"],
+      "answer": "Telnet",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which of these is a transport layer protocol?",
+      "options": ["IP", "TCP", "Ethernet", "DNS"],
+      "answer": "TCP",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which layer is responsible for flow control?",
+      "options": ["Application", "Transport", "Network", "Data Link"],
+      "answer": "Transport",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "What type of addressing is used at the Data Link Layer?",
+      "options": ["IP address", "Port number", "MAC address", "Logical address"],
+      "answer": "MAC address",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which protocol is used to send emails?",
+      "options": ["POP3", "SMTP", "IMAP", "FTP"],
+      "answer": "SMTP",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which command checks the network path?",
+      "options": ["ping", "ipconfig", "tracert", "netstat"],
+      "answer": "tracert",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which protocol is used to securely transfer files?",
+      "options": ["FTP", "SFTP", "SMTP", "TELNET"],
+      "answer": "SFTP",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which protocol is used for network management?",
+      "options": ["SNMP", "SMTP", "HTTP", "SSH"],
+      "answer": "SNMP",
+      "topic": "Computer Networks"
+    },
+    {
+      "question": "Which algorithm is used for classification tasks?",
+      "options": ["K-Means", "Linear Regression", "Logistic Regression", "PCA"],
+      "answer": "Logistic Regression",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "What is the output of a linear regression model?",
+      "options": ["Class label", "Cluster ID", "Probability", "Continuous value"],
+      "answer": "Continuous value",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which of the following is a supervised learning algorithm?",
+      "options": ["PCA", "SVM", "K-Means", "Apriori"],
+      "answer": "SVM",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which metric is used for regression models?",
+      "options": ["Accuracy", "F1-score", "Mean Squared Error", "Recall"],
+      "answer": "Mean Squared Error",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which technique is used to reduce overfitting?",
+      "options": ["Gradient Boosting", "Normalization", "Regularization", "Feature Engineering"],
+      "answer": "Regularization",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "If X = [1, 2], w = [0.4, 0.6], what is the dot product?",
+      "options": ["1.0", "1.4", "1.6", "2.0"],
+      "answer": "1.0",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which one is NOT a distance metric?",
+      "options": ["Euclidean", "Manhattan", "Cosine", "Entropy"],
+      "answer": "Entropy",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which algorithm uses entropy and information gain?",
+      "options": ["Logistic Regression", "Naive Bayes", "Decision Tree", "KNN"],
+      "answer": "Decision Tree",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "What does PCA do?",
+      "options": ["Performs classification", "Reduces dimensions", "Increases model accuracy", "Normalizes data"],
+      "answer": "Reduces dimensions",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which is a type of ensemble method?",
+      "options": ["Gradient Descent", "Random Forest", "SVM", "DBSCAN"],
+      "answer": "Random Forest",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which activation is used in hidden layers of a neural network?",
+      "options": ["Sigmoid", "ReLU", "Softmax", "Linear"],
+      "answer": "ReLU",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which learning technique uses reward and punishment?",
+      "options": ["Supervised", "Unsupervised", "Reinforcement", "Deep"],
+      "answer": "Reinforcement",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "What is backpropagation used for?",
+      "options": ["Data cleaning", "Feature scaling", "Weight updating", "Data sampling"],
+      "answer": "Weight updating",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "What is the role of a learning rate?",
+      "options": ["Reduce variance", "Controls step size", "Removes outliers", "Increases model depth"],
+      "answer": "Controls step size",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "If loss = (y - y')², what is d(loss)/d(y')?",
+      "options": ["1", "-2(y - y')", "2(y - y')", "-1"],
+      "answer": "2(y - y')",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which problem is best suited for clustering?",
+      "options": ["Spam detection", "Customer segmentation", "House price prediction", "Face recognition"],
+      "answer": "Customer segmentation",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which algorithm uses a kernel trick?",
+      "options": ["KNN", "SVM", "Linear Regression", "Naive Bayes"],
+      "answer": "SVM",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "What is the complexity of training KNN?",
+      "options": ["O(1)", "O(n)", "O(n²)", "O(nlogn)"],
+      "answer": "O(1)",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which regularization adds squared penalty?",
+      "options": ["L1", "Dropout", "L2", "ReLU"],
+      "answer": "L2",
+      "topic": "Machine Learning"
+    },
+    {
+      "question": "Which loss function is used in classification?",
+      "options": ["Cross-Entropy", "MSE", "Huber", "RMSE"],
+      "answer": "Cross-Entropy",
+      "topic": "Machine Learning"
+    }
+  ]
